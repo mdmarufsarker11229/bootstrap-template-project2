@@ -1,0 +1,14 @@
+body {
+    margin:0;
+}
+.navbar-nav {
+    
+    
+    flex-direction:row!important;
+}
+.sidebar1,.sidebar2 {
+    overflow-y: scroll;
+    height: 85vh;
+    position: fixed;
+    width: 24%;
+}
